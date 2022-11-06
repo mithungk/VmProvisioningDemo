@@ -1,1 +1,3 @@
 # VmProvisioningDemo
+
+ROLES : ADMIN, USER
